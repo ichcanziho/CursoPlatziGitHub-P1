@@ -1,9 +1,5 @@
 esta es una prueba utilizando vs code
-esta chistoso, se pone en azul si estoy modificando algo ya existente
-------------
-esta linea la acabo de agregar (en vs code )
-como estas lineas son nuevas respecto a la anterior
-se ponen la barra izq de color verde :D esta chido
---------------
+esta chistoso
 
-prueba para usar checkout
+estos cambios fue regresando a una version muy vieja
+de este archivo utilizando git checkout id vs.txt
