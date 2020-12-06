@@ -1,2 +1,7 @@
 esta es una prueba utilizando vs code
-esta chistoso
+esta chistoso, se pone en azul si estoy modificando algo ya existente
+------------
+esta linea la acabo de agregar (en vs code )
+como estas lineas son nuevas respecto a la anterior
+se ponen la barra izq de color verde :D esta chido
+--------------
