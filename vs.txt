@@ -5,3 +5,5 @@ esta linea la acabo de agregar (en vs code )
 como estas lineas son nuevas respecto a la anterior
 se ponen la barra izq de color verde :D esta chido
 --------------
+
+prueba para usar checkout
